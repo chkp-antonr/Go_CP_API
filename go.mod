@@ -1,4 +1,4 @@
-module Go_CP_API/cp_api
+module github.com/chkp-antonr/Go_CP_API
 
 go 1.22.2
 
